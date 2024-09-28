@@ -1,4 +1,189 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PropertiesComponent">{}</component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="596352a8-d767-4f22-9698-8b27052e30a5" name="Changes" comment="Change &quot;let&quot; to &quot;const&quot;">
+      <change beforePath="$PROJECT_DIR$/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/provider.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/provider.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Approach.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Approach.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Clients.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Clients.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Experience.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Experience.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Footer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Grid.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Grid.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Hero.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Hero.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/MagicButton.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/MagicButton.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/RecentProjects.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/RecentProjects.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/BentoGrid.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/BentoGrid.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/CanvasRevealEffect.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/CanvasRevealEffect.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/Globe.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/Globe.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/GradientBg.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/GradientBg.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/GridGlobe.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/GridGlobe.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/InfiniteCards.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/InfiniteCards.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/MovingBorders.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/MovingBorders.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/Pin.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/Pin.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/Spotlight.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/Spotlight.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/TextGenerateEffect.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/TextGenerateEffect.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/globe.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/globe.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/data/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/utils.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/utils.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Undertaker2020"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Undertaker2020/Portfolio-Demo-version.git",
+    "accountId": "efe802ef-410d-46a2-b7e8-939425af60bd"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2m3LNOs5DWxHWeRteDr98Fc89kc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/IT-Projects/portfolio/app",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.build.executor": "Run",
+    "npm.dev.executor": "Run",
+    "prettierjs.PrettierConfiguration.Package": "D:\\IT-Projects\\portfolio\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "D:\\IT-Projects\\portfolio\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IT-Projects\portfolio\app" />
+      <recent name="D:\IT-Projects\portfolio" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IT-Projects\portfolio\app" />
+      <recent name="D:\IT-Projects\portfolio\public" />
+      <recent name="D:\IT-Projects\portfolio\data" />
+      <recent name="D:\IT-Projects\portfolio" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.build">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-WS-242.22855.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="596352a8-d767-4f22-9698-8b27052e30a5" name="Changes" comment="" />
+      <created>1726300273504</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726300273504</updated>
+      <workItem from="1726300275401" duration="5953000" />
+      <workItem from="1726352838863" duration="1727000" />
+      <workItem from="1726483636171" duration="942000" />
+      <workItem from="1726484595166" duration="5286000" />
+      <workItem from="1726565299901" duration="14000" />
+      <workItem from="1726830309924" duration="1842000" />
+      <workItem from="1726908340418" duration="88000" />
+      <workItem from="1726908770841" duration="64000" />
+      <workItem from="1726908857464" duration="246000" />
+      <workItem from="1726909113633" duration="1660000" />
+      <workItem from="1726998659809" duration="1468000" />
+      <workItem from="1727120458161" duration="135000" />
+      <workItem from="1727241103177" duration="95000" />
+      <workItem from="1727286577391" duration="11000" />
+      <workItem from="1727329427387" duration="870000" />
+      <workItem from="1727330378313" duration="536000" />
+      <workItem from="1727331133142" duration="6112000" />
+      <workItem from="1727344677028" duration="2329000" />
+      <workItem from="1727445231374" duration="245000" />
+      <workItem from="1727445530563" duration="7472000" />
+      <workItem from="1727526899710" duration="1148000" />
+    </task>
+    <task id="LOCAL-00001" summary="Change &quot;let&quot; to &quot;const&quot;">
+      <option name="closed" value="true" />
+      <created>1727527958795</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727527958795</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Change &quot;let&quot; to &quot;const&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change &quot;let&quot; to &quot;const&quot;" />
+  </component>
 </project>
