@@ -209,12 +209,12 @@ export const socialMedia = [
   },
   {
     id: 2,
-    img: "/twit.svg",
-    link: "",
+    img: "",
+    link: "https://t.me/g_ilya2535",
   },
   {
     id: 3,
     img: "/link.svg",
-    link: "",
+    link: "https://www.linkedin.com/in/ilya-gashimov",
   },
 ];
